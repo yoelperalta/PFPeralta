@@ -1,0 +1,13 @@
+footer{
+    background-color: $color-fondo-footer;
+    border-top: solid $color-linea-header-footer;
+    padding: 10px 0;
+    div{
+        display: flex;
+        justify-content: center;
+        column-gap: 40px;
+        img{
+            width: 30px;
+        }
+    }
+}
